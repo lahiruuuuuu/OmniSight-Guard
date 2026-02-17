@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+omnisight_audit.db
+*.pt
+app learning.py
+database learning.py
