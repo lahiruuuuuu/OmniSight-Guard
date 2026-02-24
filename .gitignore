@@ -3,4 +3,5 @@ __pycache__/
 omnisight_audit.db
 *.pt
 app learning.py
-database learning.py
+database learning.py 
+
